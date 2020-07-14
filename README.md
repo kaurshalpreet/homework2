@@ -1,4 +1,4 @@
-# CSS and Bootstrap Homework: Responsive Portfolio
+# Responsive Portfolio
 ## Description
  This project is a simple 3 HTML page project showcasing my Bio, Portfolio and Contact pages using Bootstrap. This is my first project in which I have created something from scratch using Bootstrap classes and minimum use of CSS. I have learnt a lot in this journey of creating my own Bio and Portfolio Page. [The project can be accessed at my github repository](https://github.com/kaurshalpreet/homework2)
  ![Homework Repository Screenshot](./assets/images/homeworkrepo.png)
