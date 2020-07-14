@@ -24,7 +24,7 @@ Each page is designed to be responsive for mobile screen. Below images show the 
 
 ## Running the Application
 
-[The index.html page can be accessed via github page here](https://kaurshalpreet.github.io/homework2/index.html"index.html")
+[The index.html page can be accessed via github page here](https://kaurshalpreet.github.io/homework2/index.html")
 
 The index.html has links to my LinkedIn, Facebook & Github profiles. You can also navigate to portfolio and contact pages.
 
@@ -37,7 +37,7 @@ The webpages are designed to be responsive for viewing on mobile devices. On an 
 
 When viewed on mobile device, the navigation links get collaopsed into a navigation icon. When clicked on the navigation icon, it displays the navigation menu.
 
-![Menubar](./assets/Menubar.gif)
+![Menubar](./assets/MenuBar.gif)
 
 The images also display responsive behavior when viewed on small screen.
 

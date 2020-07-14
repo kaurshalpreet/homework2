@@ -9,6 +9,11 @@ body {
     background-image: url(https://i.pinimg.com/originals/b4/31/1c/b4311c17c04a3d94f05d781948a409f4.jpg);
 }
 
+/* image set to top right */
+.image {
+  float: right;
+}
+
 
 .footer {
     background-color: #333;
@@ -45,4 +50,21 @@ body {
     color: white;
     padding: 4px;
   }
- 
+
+  /* Github */
+  .fa-github {
+    background-color: black;
+    padding: 4px;
+    color: white;
+  }
+
+
+
+  /* media query set to apply padding to the image */
+  @media screen and (max-width: 993px) {
+    .image{
+      padding: 10px;
+    }
+  }
+
+
